@@ -1,4 +1,4 @@
-# satware(R) AI mermaid
+# satware® AI mermaid
 
 **Mermaid diagrams directly in the chat** - a TypingMind JavaScript plugin
 for `chat.satware.ai` and `chat.demo.satware.ai`. Runs entirely in the

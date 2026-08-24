@@ -1,5 +1,5 @@
 /**
- * satware(R) AI mermaid - primary function (loaded by TypingMind from GitHub).
+ * satware® AI mermaid - primary function (loaded by TypingMind from GitHub).
  *
  * render_mermaid_diagram: builds a standalone HTML document that renders a
  * Mermaid v11 diagram via CDN ESM import. Zoom controls, SVG/PNG export,
